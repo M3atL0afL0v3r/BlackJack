@@ -47,7 +47,6 @@ BlackJack/
 │── BlackJack/
 │   └── main.cpp     	   # Program code
 │   └── x64/    	   # Debug and Release executables
-│── x64/
 │── LICENSE.txt
 │── README.txt
 
